@@ -1,0 +1,9 @@
+HBox
+{
+    -fx-background-color: white;
+}
+.date {
+    -fx-font-size: 20;
+    -fx-font-family: "Times New Roman";
+    -fx-padding: 4;
+}
